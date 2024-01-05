@@ -1,1 +1,2 @@
 XCIPTV.apk filter=lfs diff=lfs merge=lfs -text
+VSCINE9.2.apk filter=lfs diff=lfs merge=lfs -text
